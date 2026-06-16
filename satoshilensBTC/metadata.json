@@ -1,0 +1,6 @@
+{
+  "name": "SatoshiLens",
+  "description": "Premium Bitcoin wealth intelligence platform. Analyze addresses, track deposits over time, calculate ROI, and generate AI portfolio insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
